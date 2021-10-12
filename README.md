@@ -1,12 +1,11 @@
 # UniLife_UserArticleScore
 
-###### Ex.
 ###### Input: True, 1, 5, False, 2, 0, 3, 10, 1, 0
 ###### Output: (Float) 5.075374454561822
-######
-######
-######
-######
+###### <br />     
+###### <br />
+###### <br />    
+###### <br />  
 ###### ifRead : read only,
 ###### Mean ( if >0)
 ###### {
