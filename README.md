@@ -1,7 +1,7 @@
 # UniLife_UserArticleScore
 
 ###### Input: True, 1, 5, False, 2, 0, 3, 10, 1, 0
-###### Output: (Float) 5.075374454561822
+###### Output: (Float) 5.08
 ###### <br />     
 ###### <br />
 ###### ifRead : read only,
